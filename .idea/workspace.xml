@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba17ff5-1453-445a-a0b0-aec10162a84c" name="Changes" comment="abcd">
+    <list default="true" id="eba17ff5-1453-445a-a0b0-aec10162a84c" name="Changes" comment="üslü sayı">
+      <change afterPath="$PROJECT_DIR$/src/java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tek.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +48,16 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.tek">
-    <configuration name="ASAd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ASAd" />
+  <component name="RunManager" selected="Application.java">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java" />
       <module name="untitled9" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java" />
         <item itemvalue="Application.tek" />
         <item itemvalue="Application.s" />
         <item itemvalue="Application.teksayi" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ASAd" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658263770121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="üslü sayı">
+      <created>1658311445102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658311445102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="addaf" />
     <MESSAGE value="abcd" />
-    <option name="LAST_COMMIT_MESSAGE" value="abcd" />
+    <MESSAGE value="üslü sayı" />
+    <option name="LAST_COMMIT_MESSAGE" value="üslü sayı" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
