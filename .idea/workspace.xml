@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba17ff5-1453-445a-a0b0-aec10162a84c" name="Changes" comment="addaf">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Alaatin_Demirci.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tek.java" afterDir="false" />
+    <list default="true" id="eba17ff5-1453-445a-a0b0-aec10162a84c" name="Changes" comment="abcd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656505150071</updated>
     </task>
+    <task id="LOCAL-00001" summary="abcd">
+      <created>1658263770121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658263770121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="addaf" />
-    <option name="LAST_COMMIT_MESSAGE" value="addaf" />
+    <MESSAGE value="abcd" />
+    <option name="LAST_COMMIT_MESSAGE" value="abcd" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

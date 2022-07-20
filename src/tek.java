@@ -1,20 +1,25 @@
 import java.util.Scanner ;
 public class tek {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        int n , k ;
+        Scanner input =new Scanner(System.in);
 
-        System.out.println("Number to prime: ");
-        int numToPrime = scanner.nextInt();
+        System.out.println("Üssü alınacak sayı:");
+        n = input.nextInt();
+        System.out.println("Üs olacak sayı :");
+        k = input.nextInt();
+       int  total =1;
 
-        System.out.println("Exponent of number: ");
-        int expOfNum = scanner.nextInt();
+            for (int i = 1; i <= n; i++)      {
+                total*=k;
+            } System.out.println("Cevap = "+total);
 
-        int result = 1;
-        for(int i=0; i< expOfNum; i++){
-            result *= numToPrime;
+
+
         }
 
-        System.out.println(result);
+
     }
-}
+
+
 
